@@ -1,6 +1,7 @@
 using System.Windows.Forms;
 using System.Drawing;
 using System;
+using System.IO;
 
 namespace FloatingNotepad
 {
@@ -14,7 +15,7 @@ namespace FloatingNotepad
             _mainWindow = mainWindow;
             _trayIcon = new NotifyIcon
             {
-                Icon = System.Drawing.SystemIcons.Application,
+                Icon = new Icon(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "app.ico")),
                 Visible = true
             };
 
@@ -30,7 +31,7 @@ namespace FloatingNotepad
             showItem.Click += (s, e) => _mainWindow.Show();
             
             var exitItem = new ToolStripMenuItem("退出");
-            exitItem.Click += (s, e) => Application.Exit();
+            exitItem.Click += (s, e) => System.Windows.Forms.Application.Exit();
 
             contextMenu.Items.Add(showItem);
             contextMenu.Items.Add(exitItem);

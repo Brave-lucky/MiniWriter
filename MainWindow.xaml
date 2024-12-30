@@ -9,6 +9,7 @@
         Background="Transparent"
         Topmost="True"
         ResizeMode="NoResize"
+        ShowInTaskbar="False"
         Loaded="Window_Loaded">
     
     <Border x:Name="dragBorder" 

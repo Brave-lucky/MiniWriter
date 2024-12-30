@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Windows.Documents;
 
-namespace FloatingNotepad
+namespace MiniWriter
 {
     public class FileManager
     {
@@ -13,7 +13,7 @@ namespace FloatingNotepad
         {
             var appDataPath = Path.Combine(
                 Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments),
-                "MyNoteApp"
+                "MiniWriter"
             );
             
             if (!Directory.Exists(appDataPath))

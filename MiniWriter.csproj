@@ -6,6 +6,8 @@
     <UseWPF>true</UseWPF>
     <UseWindowsForms>true</UseWindowsForms>
     <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+    <AssemblyName>MiniWriter</AssemblyName>
+    <RootNamespace>MiniWriter</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

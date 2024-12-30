@@ -3,7 +3,7 @@ using System.Drawing;
 using System;
 using System.IO;
 
-namespace FloatingNotepad
+namespace MiniWriter
 {
     public class TrayIconManager
     {

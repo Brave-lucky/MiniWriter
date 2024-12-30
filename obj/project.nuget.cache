@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VTMfRqAOs3EqEu2q0u1VdV81CcvV6/btfhiJI7aZmNFdtxjBqVhFzcrYQNv3P3SA0+KzbDA/Auvb5y9kgJv8lg==",
+  "dgSpecHash": "8stWX2dSsWAKB2Sxi5Uemr6rr84Sz4dwFEiP+3tO8hvq58vCtvpRhbKR694egAjnR+c4khIcLrzoGdAU40VsLQ==",
   "success": true,
-  "projectFilePath": "D:\\YANGY\\Cursor\\TimeNote\\FloatingNotepad.csproj",
+  "projectFilePath": "D:\\YANGY\\Cursor\\TimeNote\\MiniWriter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

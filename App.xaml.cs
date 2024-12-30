@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace FloatingNotepad
+namespace MiniWriter
 {
     public partial class App : Application
     {

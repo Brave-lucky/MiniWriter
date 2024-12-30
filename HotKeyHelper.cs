@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Interop;
 using System.Windows.Input;
 
-namespace FloatingNotepad
+namespace MiniWriter
 {
     public class HotKeyHelper
     {

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YANGY\\Cursor\\TimeNote\\FloatingNotepad.csproj",
-      "projectName": "FloatingNotepad",
-      "projectPath": "D:\\YANGY\\Cursor\\TimeNote\\FloatingNotepad.csproj",
+      "projectUniqueName": "D:\\YANGY\\Cursor\\TimeNote\\MiniWriter.csproj",
+      "projectName": "MiniWriter",
+      "projectPath": "D:\\YANGY\\Cursor\\TimeNote\\MiniWriter.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\YANGY\\Cursor\\TimeNote\\obj\\",
       "projectStyle": "PackageReference",

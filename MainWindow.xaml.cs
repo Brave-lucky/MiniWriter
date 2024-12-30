@@ -19,7 +19,7 @@ using System.Collections.Generic;
 using System.Windows.Shapes;
 using Button = System.Windows.Controls.Button;
 
-namespace FloatingNotepad
+namespace MiniWriter
 {
     public partial class MainWindow : Window
     {
@@ -90,6 +90,13 @@ namespace FloatingNotepad
             // 加载保存的文本
             var textRange = new TextRange(inputTextBox.Document.ContentStart, inputTextBox.Document.ContentEnd);
             _fileManager.LoadText(textRange);
+
+            // 确保窗口不在任务栏显示
+            ShowInTaskbar = false;
+            WindowStyle = WindowStyle.None;
+            
+            // 初始化完成后隐藏窗口
+            Hide();
         }
 
         private void RegisterEvents()

@@ -31,15 +31,16 @@
 
 无论是灵感乍现还是长篇大论，MiniWriter 都能让你在工作中轻松创作，享受写作的乐趣。
 
-**隐蔽性极强，：看下图**
+**支持浅色系与深色系两证模式，隐蔽性极强，看下图**
 
-图片1：
-
-![image](https://github.com/user-attachments/assets/5d6bb0ea-fa6e-4a96-832d-0dedda5af469)
-
-图片2：
-
-![image](https://github.com/user-attachments/assets/40f61d9f-576f-47f7-9d56-78194c5c4809)
+**图片1：浅色系在wpsWord页面的情况下**
+![8c2cb7f1fe920bc480525562be38a0c](https://github.com/user-attachments/assets/68e51b2e-2612-40c9-9899-1908d3034175)
+****
+**图片2：浅色系在微信输入框的情况下**
+![e34542add864e3415dee05b9981081f](https://github.com/user-attachments/assets/57dd2b46-afab-4155-b8da-3058d9dafe3d)
+****
+**图片3：深色系在电脑下方任务栏处**
+![7c072f448f64c301ba8a361de8040bc](https://github.com/user-attachments/assets/8fdfde75-989e-4cb5-a866-3550226fb036)
 
 ****
 **不码字的时候输入框还会自动淡化，透明度降低哦。**
@@ -62,25 +63,18 @@ E 按钮：导出文本为 RTF 格式，方便分享和备份
 主题切换：点击切换明暗主题，适应不同环境
 
 拖动手柄：轻松拖动窗口，调整位置
-
-**rtf文本导出，导出后直接可以用wps或office打开。**
-
-效果看下图：
-
-![image](https://github.com/user-attachments/assets/d32a3a5a-56fd-4acf-a4b0-e95b0de6648b)
-
-![image](https://github.com/user-attachments/assets/3585f9aa-cfd7-467b-98d0-f86520948003)
-
-导出后的文本也是透明度很低的灰色，不会被轻易看到写的是什么。
-
-但是可以用wps的字体功能各方面进行调整。
-
-效果看下图，字体是黑色了：
-
-![image](https://github.com/user-attachments/assets/ff466e73-1802-42e9-834e-6d6b369f801c)
-
 ****
-
+**rtf文本导出，导出后直接可以用wps或office打开。**
+**图片4：导出rtf格式**
+![5cf229be53c126c9d945ed5c70e9039](https://github.com/user-attachments/assets/b84ee4b9-6775-48e9-b762-1af10a1b86a8)
+****
+导出后的文本也是透明度很低的灰色，不会被轻易看到写的是什么。
+但是可以用wps的字体功能各方面进行调整。
+**强调：rtf格式是可以用Word打开的哦！！！**
+也就是说，导出后，你可以随意调整行距字体间距之类的！！！
+**图片5：打开后的文档效果**
+![0c55bf815040ca889ab22dd675ddbe0](https://github.com/user-attachments/assets/c8005f88-f5ea-4a50-badd-4cac9120a328)
+****
 **⚡ 特色亮点**
 
 **隐蔽性强：快捷键 Ctrl+Shift+S 一键隐藏，瞬间消失在屏幕上，老板来了也不怕**
@@ -106,6 +100,7 @@ Ctrl+B加粗
 通过网盘分享的文件：Mini Writer.zip
 链接: https://pan.baidu.com/s/12LL5noG0TxBGJjXMqlFCPQ?pwd=2025 提取码: 2025
 ****
-![4c5762e0a557b47cb17b3040edef2d1](https://github.com/user-attachments/assets/fb02e7a0-54a8-47ff-a0f5-3f153ce838e9)
-**打赏创作者
-您的鼓励，就是我的动力~**
+![c9e94859ccf4c91a08efca058898cbb](https://github.com/user-attachments/assets/a2aef059-5444-43bf-91e3-a23b4fda2988)
+
+****打赏创作者**
+**您的鼓励，就是我的动力~****

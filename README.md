@@ -4,6 +4,8 @@
 
 通过网盘分享的文件：Mini Writer.zip
 链接: https://pan.baidu.com/s/12LL5noG0TxBGJjXMqlFCPQ?pwd=2025 提取码: 2025
+Mini Writer，支持Windows系统。
+![wm](https://github.com/user-attachments/assets/ab8c6978-29bf-41c5-a5ec-34c8057987de)
 
 **🌟 特色亮点**
 

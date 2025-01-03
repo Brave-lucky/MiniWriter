@@ -1,4 +1,4 @@
-**MiniWriter - 摸鱼码字小神器**
+**MiniWriter - 摸鱼码字小神器**文末有下载链接
 
 **一款专为上班摸鱼写小说打造的摸鱼码字小软件，让你在工作中也能轻松创作！**
 
@@ -96,5 +96,7 @@ Ctrl+B加粗
 
 免费开源：完全免费
 
-
+想要获取软件，直接下载，然后双击击里面的EXE文件就能运行了。
+通过网盘分享的文件：Mini Writer.zip
+链接: https://pan.baidu.com/s/1SocVJ7s4zsa_xzJ-nZVTrw 提取码: 2025
 
